@@ -1,4 +1,4 @@
-6. Raspberry Pi Setup
+ Raspberry Pi Setup
 1. Download the Raspberry Pi operating system
 • Linux releases compatible with the Pi: – http://www.raspberrypi.org/downloads
 • The recommended OS is Raspbian:
